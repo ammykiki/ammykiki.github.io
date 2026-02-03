@@ -4,20 +4,20 @@ document.addEventListener("DOMContentLoaded", function () {
     const heart = document.querySelector(".heart");
     const imageContainer = document.querySelector(".background-images");
     const imageList = [
-        "zhuzhu1.jpg", "zhuzhu2.jpg", "zhuzhu3.jpg",
-        "zhuzhu4.jpg", "zhuzhu5.jpg", "zhuzhu6.jpg",
-        "zhuzhu7.jpg", "zhuzhu8.jpg", "zhuzhu9.jpg",
-        "zhuzhu10.jpg", "zhuzhu11.jpg", "zhuzhu12.jpg",
-        "zhuzhu13.jpg", "zhuzhu14.jpg", "zhuzhu15.jpg",
-        "zhuzhu16.jpg", "zhuzhu17.jpg", "zhuzhu18.jpg",
-        "zhuzhu19.jpg", "zhuzhu20.jpg", "zhuzhu21.jpg",
+        "IMG_0637.png", "IMG_0921.jpeg", "IMG_1506.jpeg",
+        "IMG_3333.jpeg", "IMG_3442.jpeg", "IMG_3554.png",
+        "IMG_4682.jpeg", "IMG_5303.jpeg.", "IMG_5637.jpeg.",
+        "IMG_6378.jpeg", "IMG_7062.jpeg", "IMG_7230.jpeg",
+        "IMG_7897.jpeg", "IMG_7933.jpeg", "IMG_8387.peg",
+        "IMG_8909.jpeg", "IMG_9338.jpeg", "IMG_9344.jpeg",
+        "img0001.jpeg", "img002.jpeg", "zhuzhu21.jpg",
         "zhuzhu22.jpg", "zhuzhu23.jpg", "zhuzhu24.jpg",
-        "zhuzhu25.jpg", "zhuzhu26.jpg", "zhuzhu27.jpg",
+        "zhuzhu25.jpg", "zhuzhu26.jypg", "zhuzhu27.jpg",
         "zhuzhu28.jpg", "zhuzhu29.jpg", "zhuzhu30.jpg",
         "zhuzhu31.jpg", "zhuzhu32.jpg",
     ];
 
-    let message = "အသက်ကြီးလာလေ ပိုပိုပင်ပန်းလာရလေပဲနော် စိုက်ပျိုးသမျှက အသီးအပွင့်ပြန်ဖြစ်မှာမို့လို့ အားတင်းထားပါဦး နောင်ချစ်သူများနေ့တွေတိုင်းကိုလည်း အတူတူ ဖြတ်ကျော်သွားချင်ပါတယ်,Your koe koe💖";
+    let message = "Happy Valentine's Day,babyyy.I LOVE YOU A LOt this is our second year together alrready.I still wanna grow up and move forward w you.thank you for always love me and take care of me.I really love u and appreciate everyting you do for me.If we ever have proplems, I want  us to talk more and understand each other better.You're my boyfriend,my friend ,my family , my soul.and I love you more than you know babe. 💖";
     let index = 0;
 
     function typeLetter() {
